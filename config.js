@@ -17,10 +17,10 @@ global.statusseen = true;                 //This is the new variable for control
 
 
 //
-global.Owner = ["8801975492880","8801928502256"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.OwnerNumber = ["8801975492880","8801928502256"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
-global.ownertag = ["8801975492880"];
-global.OwnerName = "Slasher";
+global.Owner = ["2347038308662","234703830662"];         //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.OwnerNumber = ["2347038308662","2347038308662"];   //If you want singal number so global.Owner = ['8801928502256'] Change into your number.
+global.ownertag = ["2347038308662"];
+global.OwnerName = "🚭🚳Lil Presh 🚫";
 global.BotName = "XLICON-MD";
 global.packname = "X-2.0 Bot";                             //Do not change.
 global.author = "By: Slasher";                               //Do not change.
